@@ -21,7 +21,7 @@ install_requires = [
     "pandas>=1.5.0;python_version>='3.10'",
     'tqdm>=4.15,<5',
     'copulas>=0.9.0,<0.10',
-    'ctgan>=0.7.2,<0.8',
+    'ctgan>=0.7.4.dev0,<0.8',
     'deepecho>=0.4.1,<0.5',
     'rdt>=1.6.1.dev0',
     'sdmetrics>=0.10.0,<0.11',
